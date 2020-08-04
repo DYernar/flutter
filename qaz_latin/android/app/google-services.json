@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778950713043",
+    "firebase_url": "https://qazlatin-a7025.firebaseio.com",
+    "project_id": "qazlatin-a7025",
+    "storage_bucket": "qazlatin-a7025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778950713043:android:3bb04f86f5b4fea83fbe26",
+        "android_client_info": {
+          "package_name": "com.example.qaz_latin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778950713043-tlkbak79cj5t9h5fchci8r1vfc984mg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qaz_latin",
+            "certificate_hash": "1d907cd9e3ca59f5ab04f2b7139b40de92bec931"
+          }
+        },
+        {
+          "client_id": "778950713043-ddfmfk1b5h09klge66314cdaa8p6kjgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBCFu_HuxKnFHDkkp0c_4ovUYeQggp1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778950713043-ddfmfk1b5h09klge66314cdaa8p6kjgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
