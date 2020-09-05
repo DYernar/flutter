@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111829442219",
+    "firebase_url": "https://qazaq-latin-auth.firebaseio.com",
+    "project_id": "qazaq-latin-auth",
+    "storage_bucket": "qazaq-latin-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111829442219:android:285da95da246f08fcf61ee",
+        "android_client_info": {
+          "package_name": "com.gamefactory.qaz_latin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111829442219-97oeu2go7gkruc63930ofseva0u5l5fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamefactory.qaz_latin",
+            "certificate_hash": "c64cc4af60ee94f6ca886e79d10eaca27bdf6a37"
+          }
+        },
+        {
+          "client_id": "111829442219-4seelt3aqu3rbrip3qt6b95jm7afnv8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1S4CZuP7N4Eiphu1-fKMC39C5pidnM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111829442219-4seelt3aqu3rbrip3qt6b95jm7afnv8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
